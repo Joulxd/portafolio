@@ -133,7 +133,7 @@ background-color:var(--color-hover);
 
 
 .presentacion_imagen{
-    width: 50%;
+    width: 70%;
 }
 
 .footer{
@@ -153,6 +153,7 @@ background-color:var(--color-hover);
     }
     .presentacion{
         flex-direction: column-reverse;
+        gap: 20px;
     }
     .header_menu{
         justify-content: center;
